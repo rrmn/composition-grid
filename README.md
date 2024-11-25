@@ -1,8 +1,9 @@
 # Composition Grid
-Composition Grid is a browser extension that lets you overlay composition grids on any website. 
+Composition Grid is a free open source browser extension that lets you analyze website layouts instantly with composition grids.
 
-You can currently toggle between 
+You can toggle between 
 - Golden Ratio (Phi) Grid
 - Rule of Thirds Grid
+and change the color of the grid.
 
-Perfect for designers, product managers, and developers to quickly analyze visual layouts.
+Free, open source, and works on any website. Built for designers,  developers, and product managers who value precision.

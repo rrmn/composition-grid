@@ -1,0 +1,11 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Chrome extension files
+*.crx
+*.pem
+
+# Ignore hidden files (files starting with a dot)
+.*
+# Allow specific dotfiles 
+!.gitignore

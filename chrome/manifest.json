@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Composition Grid",
+  "version": "1.2",
+  "description": "Toggle between thirds and golden ratio grids on any webpage.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "storage"
+  ],
+  "icons": {
+    "64": "icons/phi_64.png",
+    "128": "icons/phi_128.png"
+  },
+  "action": {
+    "default_icon": {
+      "64": "icons/grid_off_64.png"
+    },
+    "default_title": "Composition Grid"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

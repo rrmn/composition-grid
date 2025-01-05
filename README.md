@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/8962f0ff-5d33-4409-b97a-c95e717dbcd7" alt="Composition Grid screenshot" height="300">
+
 # Composition Grid
 Composition Grid is a free open source browser extension that lets you analyze website layouts instantly with composition grids.
 

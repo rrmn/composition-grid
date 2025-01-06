@@ -13,9 +13,12 @@ Free, open source, and works on any website. Built for designers,  developers, a
 
 # Installation
 
-1. Go to Composition Grid in the [Google Chrome Webstore](https://chromewebstore.google.com/detail/composition-grid/bkoakbekeejaepenfddjcehomnkpgonk) or [Mozilla Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/composition-grid/) or [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/composition-grid/bjhalbeaddpjdacgpclnppcaipdbledd) 
-2. Press "Add to Chrome/Firefox/Edge"
-3. Done!
+1. Go to Composition Grid in the
+    1. [Google Chrome Webstore](https://chromewebstore.google.com/detail/composition-grid/bkoakbekeejaepenfddjcehomnkpgonk)
+    2. [Mozilla Firefox Browser Add-ons](https://addons.mozilla.org/en-US/firefox/addon/composition-grid/)
+    3. [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/composition-grid/bjhalbeaddpjdacgpclnppcaipdbledd) 
+3. Press "Add to Chrome/Firefox/Edge"
+4. Done!
 
 # Something not working? Ideas for features?
 
